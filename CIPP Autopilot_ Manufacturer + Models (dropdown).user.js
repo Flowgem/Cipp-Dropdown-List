@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         CIPP Autopilot: Manufacturer + Alle modellen dropdown
 // @namespace    connectium-cipp-autopilot
-// @version      1.7
+// @version      1.8
 // @description  Dropdowns; schrijft waarden React-compatibel zodat CIPP-validatie ze ziet
 // @match        https://cipp.connectium.nl/endpoint/autopilot/add-device*
 // @updateURL    https://raw.githubusercontent.com/Flowgem/Cipp-Dropdown-List/main/CIPP%20Autopilot_%20Manufacturer%20%2B%20Models%20%28dropdown%29.user.js
@@ -20,6 +20,7 @@
     'HP ProBook 450 G8 Notebook PC',
     'HP ProBook 450 15.6 inch G9 Notebook PC',
     'HP ProBook 450 15.6 inch G10 Notebook PC',
+    'FGM Test',
     'HP ProDesk 600 G5 Desktop Mini',
     'HP Pro Mini 400 G9 Desktop PC',
     'HP EliteDesk 800 G8 Desktop Mini PC',
