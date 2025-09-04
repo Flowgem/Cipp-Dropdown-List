@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name         CIPP Autopilot: Manufacturer + Models (dropdown)
+// @name         CIPP Autopilot: Manufacturer + Alle modellen dropdown
 // @namespace    connectium-cipp-autopilot
 // @version      1.7
-// @description  Dropdowns; schrijft waarden op React-manier zodat validatie ze ziet
+// @description  Dropdowns; schrijft waarden React-compatibel zodat CIPP-validatie ze ziet
 // @match        https://cipp.connectium.nl/endpoint/autopilot/add-device*
+// @updateURL    https://raw.githubusercontent.com/Flowgem/Cipp-Dropdown-List/main/CIPP%20Autopilot_%20Manufacturer%20%2B%20Models%20%28dropdown%29.user.js
+// @downloadURL  https://raw.githubusercontent.com/Flowgem/Cipp-Dropdown-List/main/CIPP%20Autopilot_%20Manufacturer%20%2B%20Models%20%28dropdown%29.user.js
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
